@@ -1,4 +1,4 @@
-# SolarShield — Heat Stroke Prediction Platform
+# StepSafeAI — Heat Stroke Prediction Platform
 
 A production-ready React + Vite frontend for heat stroke risk prediction.
 
