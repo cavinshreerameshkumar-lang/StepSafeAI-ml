@@ -59,11 +59,3 @@ Suggested APIs:
 - **AQI**: AirVisual (IQAir), OpenAQ
 - **Weather / Heat Index**: OpenWeatherMap, WeatherAPI
 
-## 🚢 Deployment
-
-Deploy the `dist/` folder to:
-- **Vercel**: `vercel --prod`
-- **Netlify**: drag & drop `dist/`
-- **GitHub Pages**: configure `vite.config.js` base path
-
-> Note: React Router uses client-side routing. Configure your host to redirect all routes to `index.html`.
